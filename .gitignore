@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Django / SQLite
+db.sqlite3
+media/
+staticfiles/
+
+# Environment variables
+.env
+*.env
+
+# Coverage / test artifact
+.coverage
+.pytest_cache/
+htmlcov/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
